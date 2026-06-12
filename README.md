@@ -70,6 +70,6 @@ The board is designed to support:
 <p align="center">Supported by the REXUS/BEXUS Program and our generous sponsors.</p>
 <p align="center">
     <a href="https://github.com/BLESS-BEXUS/Dual-Barometer-System-PCB/graphs/contributors">
-        <img src="https://contrib.rocks/image?repo=BLESS-BEXUS/Dual-**Barometer**-System-PCB" width="50"/>
+        <img src="https://contrib.rocks/image?repo=BLESS-BEXUS/Dual-Barometer-System-PCB" width="50"/>
     </a>
 </p>
